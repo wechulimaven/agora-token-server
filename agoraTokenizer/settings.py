@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-stpr*9$ot_=l_j_tz1b88gm@90y08*baj*03%@#4a!h0s@1)pu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://agora-tokenizer.herokuapp.com", "http://127.0.0.1"]
 
 
 # Application definition
