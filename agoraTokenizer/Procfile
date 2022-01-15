@@ -1,1 +1,1 @@
-web: gunicorn agoraTokenizer.wsgi
+web: gunicorn agoraTokenizer.wsgi --log-file -
